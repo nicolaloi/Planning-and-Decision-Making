@@ -1,0 +1,10 @@
+
+FROM jupyter/scipy-notebook
+ENV DISABLE_CONTRACTS=1
+
+COPY requirements.txt .
+
+RUN pip install -r requirements.txt
+ENV DISABLE_CONTRACTS=1
+
+CMD ["jupyter", "notebook", "--NotebookApp.ip=0.0.0.0"]

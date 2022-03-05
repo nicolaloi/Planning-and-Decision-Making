@@ -1,0 +1,13 @@
+quickapp-z6>=6.0.5,<7
+networkx
+toolz
+PyGeometry-z6
+matplotlib>=3.4.0
+descartes==1.1.0
+numpy>=1.21.0
+osmnx>=1.1.1
+Rtree==0.9.7
+do-mpc==4.3.1
+dg-commons==0.0.18
+reprep-z6>=6.0.3,<7
+
