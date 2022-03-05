@@ -1,6 +1,6 @@
-# PDM4AR-exercises
+# Planning and Decision Making for Autonomous Robots
 
-RRT* path planning and MPC path tracking pipeline for the navigation of a spacecraft avoiding static and dynamic asteroids.
+Fully implementation of a path planning pipeline in a dynamic environment. Global path planning, local path planning, and obstacle avoidance for navigating a spacecraft to a goal region while avoiding static and dynamic asteroids.
 
 #
 
@@ -14,11 +14,10 @@ Project rated with full marks.
 <img align="right" height="270" src="https://user-images.githubusercontent.com/79461707/156426758-994f43ea-c6e9-4a83-b154-8af7f89e2051.png"></img>
 
 Control a spacecraft to safely reach the goal region, moving through an environment full of static and dynamic obstacles. 
-The spacecraft has a left and a right thruster at the back that can be activated to move forward or backward.
-The simulator provides observations about the state of the spacecraft and of the moving obstacles which correspond to the real state of the simulation.
+The spacecraft has a left and a right thruster at the back that can be activated to move forward or backward.  
+The simulator provides observations about the state of the spacecraft and of the moving obstacles which correspond to the real state of the simulation.  
 Optimize the distance traveled, the final time, and the actuation effort.
 
-<br/>
 
 Further info: [Assignment.md](Assignment.md) or [this web page](https://idsc-frazzoli.github.io/PDM4AR-exercises/10-final21).
 
