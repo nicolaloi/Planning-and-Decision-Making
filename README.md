@@ -8,10 +8,10 @@ Project rated with full marks.
 
 #
 
-<img align="right" height="300" src="https://user-images.githubusercontent.com/79461707/156426758-994f43ea-c6e9-4a83-b154-8af7f89e2051.png"></img>
-
 
 ## Task
+
+<img align="right" height="270" src="https://user-images.githubusercontent.com/79461707/156426758-994f43ea-c6e9-4a83-b154-8af7f89e2051.png"></img>
 
 Control a spacecraft to safely reach the goal region, moving through an environment full of static and dynamic obstacles. 
 The spacecraft has a left and a right thruster at the back that can be activated to move forward or backward.
